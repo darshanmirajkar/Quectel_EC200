@@ -1,0 +1,13 @@
+### EC200
+
+## Library for EC200
+
+- HTTP_POST
+- HTTP_PUT
+- HTTP_GET
+- PING_TEST
+- FILE_DOWNLOAD(Reccomands Large SPIFFS 16MB with OTA)
+- OTA
+- SIM_INFO
+- MODULE_INFO
+
